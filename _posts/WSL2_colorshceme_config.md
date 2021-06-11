@@ -24,13 +24,13 @@ comments: true
 
 ## 效果展示
 
-![image-20210610221020241](C:\Users\87694\AppData\Roaming\Typora\typora-user-images\image-20210610221020241.png)
+![image-20210610221020241.png](https://i.loli.net/2021/06/11/b9oc6a5tuf2PIQF.png)
 
-![image-20210610221205400](C:\Users\87694\AppData\Roaming\Typora\typora-user-images\image-20210610221205400.png)
+![image-20210610221205400.png](https://i.loli.net/2021/06/11/Vajtbfygv8hi9ql.png)
 
-![image-20210610221256647](C:\Users\87694\AppData\Roaming\Typora\typora-user-images\image-20210610221256647.png)
+![image-20210610221256647.png](https://i.loli.net/2021/06/11/yR7neuYJg6oipFL.png)
 
-![image-20210610221433206](C:\Users\87694\AppData\Roaming\Typora\typora-user-images\image-20210610221433206.png)
+![image-20210610221433206.png](https://i.loli.net/2021/06/11/LW12MTOIYJ6c8E3.png)
 
 ## Zsh 主题配置 —Powerlevel10k
 
@@ -51,8 +51,7 @@ git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$H
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
 
-![image-20210610222643017](../../../AppData/Roaming/Typora/typora-user-images/image-20210610222643017.png)
-
+![image-20210610222643017.png](https://i.loli.net/2021/06/11/wSF19qoXvEKCtUL.png)
 #### 补充字体下载
 
 修改完之后还需要下载 nerd字体 才能正常显示所有的字符 [Nerd Fonts](https://www.nerdfonts.com/font-downloads) 官方推荐的是 `Meslo Nerd Font` 具体按需要进行下载, 笔者使用的是 `JetBrainMono Nerd Font`
@@ -63,7 +62,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 打开设置
 
-![image-20210610223848987](../../../AppData/Roaming/Typora/typora-user-images/image-20210610223848987.png)
+![image-20210610223848987.png](https://i.loli.net/2021/06/11/12kbOSyZcDnUEA7.png)
 
 **选择对应的分发版本，并选择外观，更改字体即可**
 
