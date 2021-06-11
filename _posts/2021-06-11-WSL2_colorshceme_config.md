@@ -185,7 +185,7 @@ vim将会打印如下
 ## 参考网站
 
 1. [在Windows 10中启动WSL2 并安装Linux（ Ubuntu 为例）并运行docker](https://blog.csdn.net/yushuzhen2008/article/details/104944579)
-2. [在 Windows 10 上安装 WSL | Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/wsl/install-win10)
+2. [在 Windows 10 上安装 WSL Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/wsl/install-win10)
 3. [Oh My Zsh, 『 安装 & 配置 』 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/35283688)
 4. [Oh-My-Zsh及主题、插件安装与配置 - Mr_Doer - 博客园 (cnblogs.com)](https://www.cnblogs.com/misfit/p/10694397.html)
 5. [在windows中ohmyzsh 的powerlevel10k主题及插件推荐_KeyBordkiller的博客-CSDN博客](https://blog.csdn.net/KeyBordkiller/article/details/109537610?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-1.nonecase)
