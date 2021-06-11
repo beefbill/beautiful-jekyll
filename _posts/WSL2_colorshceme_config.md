@@ -66,7 +66,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 **选择对应的分发版本，并选择外观，更改字体即可**
 
-![image-20210610225712225](../../../AppData/Roaming/Typora/typora-user-images/image-20210610225712225.png)
+![image-20210610225712225.png](https://i.loli.net/2021/06/11/sypwzYFNlPLUhuG.png)
 
 后续修改配色方案也需要在这里进行
 
@@ -88,7 +88,7 @@ p10k configure
 
 下面是我自己设置的配色方案
 
-![image-20210610225615756](../../../AppData/Roaming/Typora/typora-user-images/image-20210610225615756.png)
+![image-20210610225615756.png](https://i.loli.net/2021/06/11/cd9hViRwOnKarvb.png)
 
 这里可以通过　JSON 文件方便的进行修改
 
@@ -164,7 +164,7 @@ p10k configure
 
 vim将会打印如下
 
-![image-20210610232007660](../../../AppData/Roaming/Typora/typora-user-images/image-20210610232007660.png)
+![image-20210610232007660.png](https://i.loli.net/2021/06/11/9telKdSpwzon32q.png)
 
 其中有 `.vim` 后缀的文件均为主题文件
 
