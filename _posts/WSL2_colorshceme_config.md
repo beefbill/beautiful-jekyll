@@ -1,3 +1,13 @@
+---
+layout: post
+title: WSL2 color scheme config
+subtitle: Each post also has a subtitle
+gh-repo: beefbill/beefbill.github.io
+gh-badge: [star, fork, follow]
+tags: [note, wsl2, zsh, vim]
+comments: true
+---
+
 # WSL2 主题配色记录
 
 ## 前言
