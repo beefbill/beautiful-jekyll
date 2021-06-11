@@ -16,7 +16,7 @@ comments: true
 
 另外，本文只涉及到有关主题和配色方案的设置， 
 
-有关 wsl 的安装请参考官方文档 [在 Windows 10 上安装 WSL | Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/wsl/install-win10)
+有关 wsl 的安装请参考官方文档 [在 Windows 10 上安装 WSL Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/wsl/install-win10)
 
 有关 Oh My Zsh 的安装与配置我具体参考的是 [Oh My Zsh, 『 安装 & 配置 』 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/35283688)
 
