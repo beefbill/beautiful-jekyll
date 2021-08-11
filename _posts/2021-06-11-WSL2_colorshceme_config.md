@@ -148,6 +148,66 @@ p10k configure
 
 到此为止终端配色方案就配置好了
 
+----------------------------------------
+后面通过对 vscode 主题 Atom One Dark 和 gruvbox 取色后得到了两个新的配色方案  
+具体配置如下：
+
+#### Atom one Dark
+
+```json
+        {
+            "background": "#282C34",
+            "black": "#000000",
+            "blue": "#2472C8",
+            "brightBlack": "#666666",
+            "brightBlue": "#3B8EEA",
+            "brightCyan": "#29B8DB",
+            "brightGreen": "#23D18B",
+            "brightPurple": "#D670D6",
+            "brightRed": "#F14C4C",
+            "brightWhite": "#E5E5E5",
+            "brightYellow": "#F5F543",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#11A8CD",
+            "foreground": "#D8CAA4",
+            "green": "#0DBC79",
+            "name": "Atom one dark",
+            "purple": "#BC3FBC",
+            "red": "#CD3131",
+            "selectionBackground": "#FFFFFF",
+            "white": "#E5E5E5",
+            "yellow": "#E5E510"
+        },
+```
+
+#### gruvbox
+
+```json
+        {
+            "background": "#000000",
+            "black": "#3C3836",
+            "blue": "#458588",
+            "brightBlack": "#928374",
+            "brightBlue": "#83A598",
+            "brightCyan": "#8EC07C",
+            "brightGreen": "#B8BB26",
+            "brightPurple": "#D3869B",
+            "brightRed": "#FB4934",
+            "brightWhite": "#EBDBB2",
+            "brightYellow": "#FABD2F",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#689D6A",
+            "foreground": "#D8CAA4",
+            "green": "#98971A",
+            "name": "gruvbox",
+            "purple": "#B16286",
+            "red": "#CC241D",
+            "selectionBackground": "#FFFFFF",
+            "white": "#A89984",
+            "yellow": "#D79921"
+        },
+```
+
 ## vim主题设置
 
 ### 查看当前主题
